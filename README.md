@@ -1,17 +1,16 @@
-# layout_basic
+Ex.1
+<img width="1032" height="189" alt="สกรีนช็อต 2026-07-10 155220" src="https://github.com/user-attachments/assets/146dd3e8-c782-4c28-b314-792840c636b9" />
 
-A new Flutter project.
+Ex.2
+<img width="1032" height="39" alt="สกรีนช็อต 2026-07-10 161305" src="https://github.com/user-attachments/assets/b76ebfd3-d75e-4038-9d89-183893adc629" />
+<img width="1032" height="40" alt="สกรีนช็อต 2026-07-10 161244" src="https://github.com/user-attachments/assets/634f6657-532f-49e1-a1ae-c80b8e40349a" />
 
-## Getting Started
+Ex.3
+<img width="1032" height="316" alt="สกรีนช็อต 2026-07-10 162603" src="https://github.com/user-attachments/assets/3193458c-7d66-4e94-b8df-98cb8c980539" />
 
-This project is a starting point for a Flutter application.
+Ex.4
+<img width="1031" height="117" alt="สกรีนช็อต 2026-07-10 164012" src="https://github.com/user-attachments/assets/32f440bb-0381-49f8-ae43-9af9827a86a9" />
+<img width="1032" height="119" alt="สกรีนช็อต 2026-07-10 163937" src="https://github.com/user-attachments/assets/13cdeb6c-4374-4a0b-bf43-9b5a959c7812" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ex.5
+<img width="1033" height="176" alt="สกรีนช็อต 2026-07-10 165241" src="https://github.com/user-attachments/assets/a30a6d83-99bc-4b95-8e71-9ea2ca0d80fc" />
